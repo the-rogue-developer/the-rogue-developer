@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/header.svg" alt="Daemon Targaryen - Fire and Blood" width="100%" />
+<img src="https://raw.githubusercontent.com/the-rogue-developer/the-rogue-developer/main/assets/header.svg" alt="Daemon Targaryen - Fire and Blood" width="100%" />
 
 </div>
 
