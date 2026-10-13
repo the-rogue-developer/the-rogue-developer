@@ -14,7 +14,7 @@ Third-year CS student at BIT Mesra working at the intersection of data analytics
 <summary><b>🐉 Wake Caraxes (click me)</b></summary>
 <br>
 
-<a href="https://github.com/the-rogue-developer/football-analytics">
+<a href="https://github.com/the-rogue-developer/football_analytics">
 <img src="https://raw.githubusercontent.com/the-rogue-developer/the-rogue-developer/refs/heads/main/assets/caraxes.svg" alt="Caraxes" width="280" />
 </a>
 
