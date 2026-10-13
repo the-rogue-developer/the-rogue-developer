@@ -61,7 +61,7 @@ Third-year CS student at BIT Mesra working at the intersection of data analytics
 - **Vhagar**: football analytics project (currenly under work)
 
 ## 📜 The Realm's Ledger
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=the-rogue-developer&show_icons=true&theme=radical&hide_border=true)
 
 ## ⚔️ Trial by Combat (LeetCode)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/charizard666?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/charizard666/)
