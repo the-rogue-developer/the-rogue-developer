@@ -1,5 +1,92 @@
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="Daemon Targaryen - Fire and Blood">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d0d0d"/><stop offset="0.55" stop-color="#2a0505"/><stop offset="1" stop-color="#8b0000"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.5" cy="1" r="0.8">
+    <stop offset="0" stop-color="#ff5a00" stop-opacity="0.55"/><stop offset="1" stop-color="#ff5a00" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#f5e6a8"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#b8860b"/>
+  </linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="900" height="240" fill="url(#bg)"/>
+<rect width="900" height="240" fill="url(#glow)">
+  <animate attributeName="opacity" values="0.6;1;0.7;1;0.6" dur="3s" repeatCount="indefinite"/>
+</rect>
+<path d="M0 240 L0 205 L80 185 L140 200 L230 165 L300 195 L420 170 L520 200 L640 160 L740 195 L830 175 L900 200 L900 240 Z" fill="#000" opacity="0.55"/>
 
-<img src="https://raw.githubusercontent.com/the-rogue-developer/the-rogue-developer/main/assets/header.svg" alt="Devmon Targaryen - Fire and Blood" width="100%" />
+<!-- embers -->
+<circle cx="341" cy="246" r="1.2" fill="#ff3b1f"><animate attributeName="cy" values="246;-10" dur="4.9s" begin="0.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.9s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="106" cy="246" r="1.8" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="5.5s" begin="4.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="5.5s" begin="4.5s" repeatCount="indefinite"/></circle>
+<circle cx="48" cy="246" r="1.2" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="5.0s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="5.0s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="574" cy="246" r="1.8" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="3.7s" begin="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3.7s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="655" cy="246" r="2.4" fill="#ff3b1f"><animate attributeName="cy" values="246;-10" dur="5.5s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="5.5s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="416" cy="246" r="1.2" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="6.9s" begin="0.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6.9s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="306" cy="246" r="1.8" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="4.0s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.0s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="583" cy="246" r="2.4" fill="#ff3b1f"><animate attributeName="cy" values="246;-10" dur="4.1s" begin="2.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.1s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="202" cy="246" r="1.8" fill="#ff3b1f"><animate attributeName="cy" values="246;-10" dur="3.8s" begin="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3.8s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="71" cy="246" r="2.4" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="4.2s" begin="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.2s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="805" cy="246" r="1.8" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="5.1s" begin="4.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="5.1s" begin="4.6s" repeatCount="indefinite"/></circle>
+<circle cx="316" cy="246" r="1.2" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="6.3s" begin="3.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6.3s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="93" cy="246" r="2.4" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="4.6s" begin="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.6s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="756" cy="246" r="1.8" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="4.5s" begin="4.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.5s" begin="4.9s" repeatCount="indefinite"/></circle>
+<circle cx="534" cy="246" r="1.8" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="4.1s" begin="1.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.1s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="441" cy="246" r="1.2" fill="#ff3b1f"><animate attributeName="cy" values="246;-10" dur="6.9s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6.9s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="596" cy="246" r="1.8" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="4.7s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.7s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="603" cy="246" r="1.8" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="3.7s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="495" cy="246" r="2.4" fill="#ff3b1f"><animate attributeName="cy" values="246;-10" dur="5.8s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="5.8s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="327" cy="246" r="2.4" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="5.5s" begin="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="5.5s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="301" cy="246" r="2.4" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="4.9s" begin="3.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.9s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="482" cy="246" r="1.8" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="4.1s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.1s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="233" cy="246" r="1.8" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="4.0s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.0s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="518" cy="246" r="1.2" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="4.1s" begin="2.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.1s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="150" cy="246" r="1.8" fill="#ffd54a"><animate attributeName="cy" values="246;-10" dur="6.5s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6.5s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="377" cy="246" r="2.4" fill="#ff7a00"><animate attributeName="cy" values="246;-10" dur="6.6s" begin="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6.6s" begin="4.8s" repeatCount="indefinite"/></circle>
 
-</div>
+<!-- flying dragon -->
+<g transform="scale(0.55)">
+  <g>
+    <animateMotion path="M-200 140 C 300 40, 900 360, 1900 120" dur="16s" repeatCount="indefinite"/>
+<g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="8 56 40;-22 56 40;8 56 40" dur="0.8s" repeatCount="indefinite"/>
+    <path d="M56 40 C46 22 30 10 10 6 C22 18 26 26 28 34 C34 28 40 28 44 34 C46 28 52 30 56 38 Z" fill="#4a0000" stroke="#d4af37" stroke-width="0.8"/>
+  </g>
+  <path d="M2 58 C18 52 32 54 46 44 L48 56 C34 62 18 64 2 58 Z" fill="#8b0000"/>
+  <path d="M2 58 L-6 54 L0 62 Z" fill="#d4af37"/>
+  <path d="M52 52 L48 66 L56 64 L60 54 Z" fill="#6b0000"/>
+  <path d="M72 52 L72 66 L80 64 L78 52 Z" fill="#6b0000"/>
+  <ellipse cx="62" cy="46" rx="24" ry="11" fill="#8b0000"/>
+  <path d="M42 40 L46 34 L50 40 L54 33 L58 40 L62 33 L66 40 L70 34 L74 41" fill="none" stroke="#d4af37" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M78 42 C90 36 94 28 100 22 L108 25 C103 36 98 46 84 54 Z" fill="#8b0000"/>
+  <path d="M98 22 L124 20 L134 25 L122 30 L108 31 L102 28 Z" fill="#a30000"/>
+  <path d="M108 31 L124 31 L120 35 L108 34 Z" fill="#6b0000"/>
+  <path d="M100 21 L92 10 L106 19 Z M106 19 L104 8 L113 18 Z" fill="#d4af37"/>
+  <circle cx="113" cy="24" r="2" fill="#ffd54a"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="10 62 38;-26 62 38;10 62 38" dur="0.8s" repeatCount="indefinite"/>
+    <path d="M62 38 C54 16 36 2 12 -4 C26 10 32 20 34 30 C40 22 48 22 52 30 C54 22 60 24 64 34 Z" fill="#8b0000" stroke="#d4af37" stroke-width="1"/>
+    <path d="M62 38 C48 22 30 8 12 -4" fill="none" stroke="#d4af37" stroke-width="1.4"/>
+  </g>
+  <g transform="translate(134 25)">
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="0.4 0.8;1.2 1.1;0.7 0.9;1.1 1;0.4 0.8" dur="0.7s" repeatCount="indefinite"/>
+      <path d="M0 -3 C16 -12 32 -6 46 0 C32 6 16 10 0 3 Z" fill="#ff7a00" opacity="0.95"/>
+      <path d="M0 -1.5 C12 -6 24 -3 34 0 C24 3 12 5 0 1.5 Z" fill="#ffd54a"/>
+    </g>
+  </g>
+</g>
+  </g>
+</g>
+
+<!-- title -->
+<g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
+  <text x="450" y="118" font-size="48" font-weight="bold" letter-spacing="6" fill="#ff5a00" filter="url(#soft)" opacity="0.7">DAEMON TARGARYEN</text>
+  <text x="450" y="118" font-size="48" font-weight="bold" letter-spacing="6" fill="url(#gold)" stroke="#3a0000" stroke-width="1.2">DAEMON TARGARYEN</text>
+  <line x1="250" y1="140" x2="650" y2="140" stroke="#d4af37" stroke-width="1.2" opacity="0.8"/>
+  <text x="450" y="172" font-size="20" letter-spacing="14" fill="#e8e8e8">FIRE  AND  BLOOD</text>
+  <text x="450" y="204" font-size="14" letter-spacing="4" fill="#d4af37" opacity="0.9">THE ROGUE PRINCE OF DATA</text>
+</g>
+</svg>
