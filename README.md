@@ -1,10 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8b0000&height=200&section=header&text=Devmon%20Targaryen&fontColor=e8e8e8&fontSize=55)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Fire+and+Blood.;Dracarys.;Building+data+%26+analytics+projects" alt="typing intro" />
-
-**3rd-year CS student | Data & Analytics | Consulting**
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/header.svg" alt="Daemon Targaryen - Fire and Blood" width="100%" />
 
 </div>
 
@@ -12,6 +8,20 @@
 
 ## 🔥 The Rogue Prince
 Third-year CS student at BIT Mesra working at the intersection of data analytics, consulting, and technology. I’ve built ML-based loan risk models (0.766 AUC), done product strategy for Easebuzz, and interned in the SDET team at Adani Digital Labs. Currently Joint Secretary at 180 Degrees Consulting, looking for business analytics and data internships.
+
+<div align="center">
+<details>
+<summary><b>🐉 Wake Caraxes (click me)</b></summary>
+<br>
+
+<a href="https://github.com/YOUR-USERNAME/football-analytics">
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/caraxes.svg" alt="Caraxes" width="280" />
+</a>
+
+*Caraxes guards my lair. Click him to fly to my football analytics project.*
+
+</details>
+</div>
 
 ## ⚔️ Dragon Fire Arsenal
 
