@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:a8c7fa&height=200&section=header&text=Jon%20Snow&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8b0000&height=200&section=header&text=Daemon%20Targaryen&fontColor=e8e8e8&fontSize=55)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A8C7FA&center=true&vCenter=true&width=600&lines=You+know+nothing%2C+Jon+Snow.;Winter+is+coming...;Building+data+%26+analytics+projects" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Fire+and+Blood.;Dracarys.;Building+data+%26+analytics+projects" alt="typing intro" />
 
 **3rd-year CS student | Data & Analytics | Consulting**
 
@@ -10,31 +10,71 @@
 
 ---
 
-## ⚔️ The Night's Watch Oath
-I am the code in the darkness, the watcher on the repos.
-I turn messy data into decisions. *(Rewrite this in your own words.)*
+## 🔥 The Rogue Prince
+Third-year CS student at BIT Mesra working at the intersection of data analytics, consulting, and technology. I’ve built ML-based loan risk models (0.766 AUC), done product strategy for Easebuzz, and interned in the SDET team at Adani Digital Labs. Currently Joint Secretary at 180 Degrees Consulting, looking for business analytics and data internships.
 
-## 🛡️ My Banners (Tech Stack)
-![Python](https://img.shields.io/badge/Python-1c2541?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1c2541?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1c2541?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-1c2541?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+## ⚔️ Dragon Fire Arsenal
 
-## 🏰 The Seven Kingdoms (Projects)
-- **The Citadel of Recommendations**: a movie recommender built on MovieLens data
-- **Kingdom Two**: loan fraud detection model
-- **Kingdom Three**: football analytics
+**🔥 Languages**
+![Python](https://img.shields.io/badge/Python-8b0000?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8b0000?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-8b0000?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8b0000?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 📜 The Maester's Ledger
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+**📊 Data Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-8b0000?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8b0000?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8b0000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-8b0000?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-8b0000?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-8b0000?style=for-the-badge&logo=powerbi&logoColor=white)
+
+**🤖 Machine Learning & Computer Vision**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-8b0000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-8b0000?style=for-the-badge)
+![YOLO11](https://img.shields.io/badge/YOLO11-8b0000?style=for-the-badge)
+![ByteTrack](https://img.shields.io/badge/ByteTrack-8b0000?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-8b0000?style=for-the-badge&logo=opencv&logoColor=white)
+
+**🗄️ Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8b0000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8b0000?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🧪 Test Automation**
+![Playwright](https://img.shields.io/badge/Playwright-8b0000?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-8b0000?style=for-the-badge&logo=postman&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-8b0000?style=for-the-badge&logo=cucumber&logoColor=white)
+
+**🛠️ Tools**
+![Git](https://img.shields.io/badge/Git-8b0000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8b0000?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-8b0000?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-8b0000?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8b0000?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-8b0000?style=for-the-badge&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8b0000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-8b0000?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 🐉 The Dragons' Lair (Projects)
+- **Caraxes**: a movie recommender built on MovieLens data
+- **Syrax**: a loan default predictor and scorer, specially for banks  
+- **Vhagar**: football analytics project (currenly under work)
+
+## 📜 The Realm's Ledger
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+## ⚔️ Trial by Combat (LeetCode)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/charizard666?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/charizard666/)
 
 ## 🦅 Send a Raven
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-charizard666-8b0000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/charizard666/)
+[![Email](https://img.shields.io/badge/Email-8b0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
 <div align="center">
 
-*The night is dark and full of terrors, but the commits are green.*
+*Dracarys: let the commits burn green.*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:a8c7fa&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8b0000&height=100&section=footer)
 
 </div>
