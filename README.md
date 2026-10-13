@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8b0000&height=200&section=header&text=Daemon%20Targaryen&fontColor=e8e8e8&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8b0000&height=200&section=header&text=Devmon%20Targaryen&fontColor=e8e8e8&fontSize=55)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Fire+and+Blood.;Dracarys.;Building+data+%26+analytics+projects" alt="typing intro" />
 
