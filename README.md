@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/the-rogue-developer/the-rogue-developer/main/assets/header.svg" alt="Daemon Targaryen - Fire and Blood" width="100%" />
+<img src="https://raw.githubusercontent.com/the-rogue-developer/the-rogue-developer/main/assets/header.svg" alt="Devmon Targaryen - Fire and Blood" width="100%" />
 
 </div>
 
 ---
 
-## 🔥 The Rogue Prince
+## 🔥 The Rogue Developer
 Third-year CS student at BIT Mesra working at the intersection of data analytics, consulting, and technology. I’ve built ML-based loan risk models (0.766 AUC), done product strategy for Easebuzz, and interned in the SDET team at Adani Digital Labs. Currently Joint Secretary at 180 Degrees Consulting, looking for business analytics and data internships.
 
 <div align="center">
